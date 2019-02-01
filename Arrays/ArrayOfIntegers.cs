@@ -28,7 +28,7 @@ namespace Arrays
             return integers[index];
         }
        
-        public void Print()
+        public void Print() 
       
         {
             var total = 0;
