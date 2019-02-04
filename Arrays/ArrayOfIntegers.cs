@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Arrays
 {
-    class ArrayOfIntegers
+    class ArrayOfIntegers 
     {
         private int[] integers = new int[10];
         private int Sum()
