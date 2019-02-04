@@ -9,7 +9,7 @@ namespace Arrays
     class ArrayOfIntegers 
     {
         private int[] integers = new int[10];
-        private int Sum()
+        private int Sum() 
         {
             var total = 0;
             for(var idx = 0; idx < 10; idx++)
