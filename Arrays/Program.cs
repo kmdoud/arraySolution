@@ -10,11 +10,20 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            var pgm = new ArrayOfIntegers();
-            pgm.Add(0, 42);
-            pgm.Add(1, 25);
-            pgm.Add(2, 97);
-            pgm.Print();
+
+            var prg = new LookAtEachNumber();
+            //prg.CheckNumbers();
+            //prg.BowlingGameScore();
+            //prg.Grades();
+            //prg.RandomNumbers();
+            //prg.Squares();
+            prg.TotalSales();
+            Console.ReadKey();
+            //var pgm = new ArrayOfIntegers();
+            //pgm.Add(0, 42);
+            //pgm.Add(1, 25);
+            //pgm.Add(2, 97);
+            //pgm.Print();
 
 
         }
